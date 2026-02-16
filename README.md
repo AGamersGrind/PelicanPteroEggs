@@ -6,4 +6,4 @@ I have also included some additional files, such as
 * .pelicanignore files - these files will excluded from backups.
 * Panel exports, like schedules
 
-You can also view my [Pelican install guide here] (https://www.trentbauer.com/guides/installation-guides/pelican)
+You can also view my [Pelican install guide here](https://www.trentbauer.com/guides/installation-guides/pelican)
